@@ -1,8 +1,8 @@
-#  Gaëtan Adjai 
+#  Gaëtan ADJAÏ
 
 **Data Analyst / Data Scientist Junior** basé à Paris — je transforme la donnée en décisions claires, du nettoyage à la mise en dashboard, avec une touche d'IA générative.
 
-🔗 **Portfolio complet :** [book-koffi-gaetanadjai.vercel.app](https://portfolio-koffi-gaetan-adjai.vercel.app/)
+🔗 **Portfolio complet :** [portfolio-koffi-gaetan-adjai.vercel.app](https://portfolio-koffi-gaetan-adjai.vercel.app/)
 
 ---
 
